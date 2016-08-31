@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Workbook 1: Saying Hello To Python"
+date:   2016-09-10 10:00:00
+categories: lesson
+---
+
+In this lesson, you will be introduced to Python and will learn how to display text using `print()` and some basic string operators like `+` and `*`.
+
+<iframe src="https://trinket.io/embed/python/4cd05e4d77" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+### Exercise 4
+
+Replace the blanks with either text or a number to produce the words on the right.  Remember, strings must be between
+single quotes (`'`) or double quotes (`"`).  Click _Run_ to see if you got the right result.
+
+<iframe src="https://trinket.io/embed/python/9a39edca43" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
