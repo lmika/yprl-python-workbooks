@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Workbook 2: Variables And Operators"
+date:   2016-09-10 10:00:00
+categories: lesson
+---
+
+In this lesson, you will use variables and operators to build an age calculator.
+
+<iframe src="https://trinket.io/embed/python/71934d8fcd" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
