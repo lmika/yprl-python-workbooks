@@ -5,7 +5,7 @@ date:   2016-09-25 10:00:00
 categories: exercises
 ---
 
-# Exercises
+# Exercise For 1st October
 
 As you may or may not be aware, I will be away for Saturday 1st October so there will be no session
 that day.  In leau of that, I've put togeather the following challange which you can look at for the
@@ -49,7 +49,7 @@ Try to build a guessing game where the user has to guess a number between 1 and
 4. If the user guesses too low, the program will print "Too low"
 5. If the user guesses right, the program will say "Correct"
 
-<iframe src="https://trinket.io/embed/python/691b37d400" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/691b37d400?outputOnly=true&amp;start=result" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 You can build the program in the following stages:
 
