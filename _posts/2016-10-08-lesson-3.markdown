@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Workbook 3: Ifs and Whiles"
+date:   2016-09-10 10:00:00
+categories: lesson
+---
+
+### Exercise 1
+
+Replace the `__` with a value to produce the boolean value on the right.
+
+<iframe src="https://trinket.io/embed/python/b60a89aaa2" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+### Exercise 2
+
+In this exercise, you will use `if`'s and `while`'s to build a guessing game.
+
+<iframe src="https://trinket.io/embed/python/05921ef3df" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
