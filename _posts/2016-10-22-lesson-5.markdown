@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Workbook 5: Turtle Graphics"
+date:   2016-10-15 10:00:00
+categories: lesson
+---
+
+In this lesson, you will use simulate a turtle race:
+
+<iframe src="https://trinket.io/embed/python/de16deac68" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>

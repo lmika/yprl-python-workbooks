@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Workbook 4: Lists And For Loops"
+date:   2016-10-15 10:00:00
+categories: lesson
+---
+
+In this lesson, you will use lists and `for` loops to create a Python quiz.
+
+<iframe src="https://trinket.io/embed/python/b8fb20c059" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
